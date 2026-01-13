@@ -17,3 +17,19 @@ Self-taught cybersecurity enthusiast focused on ethical hacking, automation, and
 
 🚀 Goal:
 Build real-world security skills and create tools that help people stay safe online.
+
+
+## 🧰 Tools & Stack
+- Linux (Kali / Ubuntu)
+- Bash & Python
+- Nmap, Burp Suite, Metasploit
+- Git & GitHub
+- Basic CI/CD concepts
+
+## 📌 Current Focus
+- Building hands-on cybersecurity labs
+- Automating repetitive security tasks
+- Documenting learning paths clearly
+
+## 📫 Contact
+- Email: juanibarra.sec@gmail.com
